@@ -34,7 +34,6 @@
 		qcom,allowed-clock-rates = <133000000 240000000 300000000
 			384000000>;
 
-		qcom,reg-presets = <0xB0080 0x0 0x03>;
 		/* Motorola-signed 5 MiB firmware in the mounted modem partition. */
 		vidc,firmware-name = "venus.mdt";
 		/* Bus Interconnects */
